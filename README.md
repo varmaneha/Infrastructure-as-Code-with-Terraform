@@ -1,4 +1,7 @@
 # Infrastructure-as-Code-with-Terraform
+
+This project aims to manage infrastructure resources using Terraform, enabling declarative configuration and automation of cloud deployments. By leveraging Terraform's capabilities, we can define infrastructure components such as compute instances, storage, networking, and more as code.
+
 # Prerequisites
 -Terraform
 -Git (for version control)
